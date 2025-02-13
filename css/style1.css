@@ -1,0 +1,40 @@
+/*
+Write CSS rules for styling body, header, nav, main, footer, li, h1, and p elements.
+*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+header {
+    background-color: aquamarine;
+}
+
+nav {
+    background-color: aliceblue;
+}
+
+main {
+    background-color: cadetblue;
+    font-size: 20px;
+}
+
+footer {
+    background-color: burlywood;
+}
+
+li {
+    display: block;
+    width: 40%;
+}
+
+h1 {
+    text-align: left;
+    font-family: 'Georgia', serif;
+    font-size: 24px;
+    color: darkgreen;
+}
+
+p {
+    line-height: 1.8;
+}
